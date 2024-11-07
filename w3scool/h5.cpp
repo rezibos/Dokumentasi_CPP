@@ -2,6 +2,7 @@
 using namespace std;
 
 // Data Types
+
 //  Characters
 
 //  Anda dapat menggunakan nilai ASCII untuk menampilkan karakter tertentu

@@ -1,10 +1,9 @@
 #include <iostream>
 using namespace std;
 
-
-// Number 
 // Data Types
 
+// Numbers
 
 // Angka floating point juga bisa berupa angka ilmiah dengan "e" untuk menunjukkan pangkat 10
 

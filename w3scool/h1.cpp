@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Output
+
 // Materi Tentang New Lines
 
 // \n = membuat line di bawah nya kayak << endl

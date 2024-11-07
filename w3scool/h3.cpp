@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Variables
+
 // Constants = berarti tidak dapat diubah dan hanya dapat dibaca
 
 int main()
