@@ -14,11 +14,9 @@ Selamat datang di repositori pembelajaran C++! Repositori ini berisi kumpulan ma
 - Best practices dan teknik optimasi.
 
 ## 💻 Persyaratan
-C++ compiler (GCC, Clang, atau MSVC)
-
-Text editor atau IDE (VSCode, CLion, dll)
-
-Pemahaman dasar tentang pemrograman (opsional)
+- C++ compiler (GCC, Clang, atau MSVC)
+- Text editor atau IDE (VSCode, CLion, dll)
+- Pemahaman dasar tentang pemrograman (opsional)
 
 ## 🎯 Cara Menggunakan
 ```sh
