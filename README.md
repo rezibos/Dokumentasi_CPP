@@ -1,7 +1,15 @@
 # 🚀 Belajar C++ dari Dasar hingga Mahir
 Selamat datang di repositori pembelajaran C++! Repositori ini berisi kumpulan materi dan contoh kode untuk membantu Anda menguasai bahasa pemrograman C++ dari tingkat pemula hingga mahir.
 
-# 📚 Apa yang akan Anda pelajari
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
+
+![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+
+## 📚 Apa yang akan Anda pelajari
 Dasar-dasar sintaks C++
 Variabel dan tipe data
 Percabangan dan perulangan
@@ -11,18 +19,18 @@ Standard Template Library (STL)
 Memory management
 Best practices dan teknik optimasi
 
-# 💻 Persyaratan
+## 💻 Persyaratan
 C++ compiler (GCC, Clang, atau MSVC)
 Text editor atau IDE (VSCode, CLion, dll)
 Pemahaman dasar tentang pemrograman (opsional)
 
-# 🌟 Fitur Utama
+## 🌟 Fitur Utama
 ✨ Contoh kode yang mudah dipahami
 📝 Penjelasan detail untuk setiap konsep
 🎮 Proyek praktis untuk implementasi
 💡 Tips dan trik pemrograman C++
 
-# 🤝 Kontribusi
+## 🤝 Kontribusi
 Kami sangat menghargai kontribusi dari komunitas! Jika Anda ingin berkontribusi:
 
 Fork repositori ini
@@ -31,14 +39,14 @@ Commit perubahan Anda (git commit -m 'Add some AmazingFeature')
 Push ke branch (git push origin feature/AmazingFeature)
 Buat Pull Request
 
-# 📖 Lisensi
+## 📖 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
 
-# 📬 Kontak
-Username - @reziboss
-Email - fachrezibachri@example.com
-Instagram - @xroxrezi
+## 📬 Kontak
+- Username - @reziboss
+- Email - fachrezibachri@example.com
+- Instagram - @xroxrezi
 
-# 🙏 Pengakuan
+## 🙏 Pengakuan
 C++ Reference
 Modern C++ Tutorial
