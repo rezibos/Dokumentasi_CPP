@@ -6,6 +6,7 @@ using namespace std;
 // Logical
 
 // Anda juga dapat menguji nilai benar (1) atau salah (0) dengan operator logika
+
 // Contoh
 // Logical and
 // && = Mengembalikan true jika kedua pernyataan benar
