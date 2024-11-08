@@ -4,14 +4,15 @@ Selamat datang di repositori pembelajaran C++! Repositori ini berisi kumpulan ma
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 
 ## 📚 Apa yang akan Anda pelajari
-Dasar-dasar sintaks C++
-Variabel dan tipe data
-Percabangan dan perulangan
-Fungsi dan prosedur
-Object-Oriented Programming (OOP)
-Standard Template Library (STL)
-Memory management
-Best practices dan teknik optimasi
+
+Dasar-dasar sintaks C++.
+Variabel dan tipe data.
+Percabangan dan perulangan.
+Fungsi dan prosedur.
+Object-Oriented Programming (OOP).
+Standard Template Library (STL).
+Memory management.
+Best practices dan teknik optimasi.
 
 ## 💻 Persyaratan
 C++ compiler (GCC, Clang, atau MSVC)
