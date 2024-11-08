@@ -65,9 +65,9 @@ g++ example.cpp -o example
 Kami sangat menghargai kontribusi dari komunitas! Jika Anda ingin berkontribusi:
 
 - Fork repositori ini
-- Buat branch baru (git checkout -b feature/AmazingFeature)
-- Commit perubahan Anda (git commit -m 'Add some AmazingFeature')
-- Push ke branch (git push origin feature/AmazingFeature)
+- Buat branch baru '$(git checkout -b feature/AmazingFeature)'
+- Commit perubahan Anda '$(git commit -m 'Add some AmazingFeature')'
+- Push ke branch '$(git push origin feature/AmazingFeature)'
 - Buat Pull Request
 
 ## 📖 Lisensi
