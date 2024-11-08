@@ -24,7 +24,7 @@ git clone https://github.com/rezibos/FILE-CPP-REZI.git
 ```
 
 ```sh
-cd cpp-learning
+cd FILE-CPP-REZI
 ```
 
 ```sh
@@ -82,4 +82,5 @@ Proyek ini dilisensikan di bawah MIT License.
 
 ## 🙏 Pengakuan
 C++ Reference
+
 Modern C++ Tutorial
