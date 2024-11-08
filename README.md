@@ -14,9 +14,11 @@ Selamat datang di repositori pembelajaran C++! Repositori ini berisi kumpulan ma
 - Best practices dan teknik optimasi.
 
 ## 💻 Persyaratan
-- C++ compiler (GCC, Clang, atau MSVC)
-- Text editor atau IDE (VSCode, CLion, dll)
-- Pemahaman dasar tentang pemrograman (opsional)
+C++ compiler (GCC, Clang, atau MSVC)
+
+Text editor atau IDE (VSCode, CLion, dll)
+
+Pemahaman dasar tentang pemrograman (opsional)
 
 ## 🎯 Cara Menggunakan
 ```sh
@@ -84,3 +86,5 @@ Proyek ini dilisensikan di bawah MIT License.
 C++ Reference
 
 Modern C++ Tutorial
+
+## ⭐️ Jika repositori ini membantu Anda, berikan bintang! ⭐️
