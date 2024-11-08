@@ -36,7 +36,7 @@ using namespace std;
 // 15 = 1111
 // 16 = 0001 0000
 
-// Contoh Operasi Right Shift
+// Contoh Operasi Right Shift : Memindahkan Angka Ke Kanan
 // M = Mulai
 // Biner 5
 // 0  1  0  1
@@ -45,7 +45,7 @@ using namespace std;
 // di mana dari kiri ke kanan adalah bit ke-3, ke-2, ke-1, dan ke-0.
 // x >>= 2; Hasil = 1
 
-// Contoh Operator Left Shift
+// Contoh Operator Left Shift : Memindahkan Angka Ke Kiri
 // 5 << 1 menghasilkan 10 (5 * 2)
 // 3 << 2 menghasilkan 12 (3 * 4)
 // 1 << 3 menghasilkan 8 (1 * 8)
