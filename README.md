@@ -20,7 +20,7 @@ Selamat datang di repositori pembelajaran C++! Repositori ini berisi kumpulan ma
 
 ## 🎯 Cara Menggunakan
 ```sh
-git clone https://github.com/username/cpp-learning.git
+git clone https://github.com/rezibos/FILE-CPP-REZI.git
 ```
 
 ```sh
@@ -54,18 +54,21 @@ g++ example.cpp -o example
 
 ## 🌟 Fitur Utama
 ✨ Contoh kode yang mudah dipahami
+
 📝 Penjelasan detail untuk setiap konsep
+
 🎮 Proyek praktis untuk implementasi
+
 💡 Tips dan trik pemrograman C++
 
 ## 🤝 Kontribusi
 Kami sangat menghargai kontribusi dari komunitas! Jika Anda ingin berkontribusi:
 
-Fork repositori ini
-Buat branch baru (git checkout -b feature/AmazingFeature)
-Commit perubahan Anda (git commit -m 'Add some AmazingFeature')
-Push ke branch (git push origin feature/AmazingFeature)
-Buat Pull Request
+- Fork repositori ini
+- Buat branch baru (git checkout -b feature/AmazingFeature)
+- Commit perubahan Anda (git commit -m 'Add some AmazingFeature')
+- Push ke branch (git push origin feature/AmazingFeature)
+- Buat Pull Request
 
 ## 📖 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
