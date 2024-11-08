@@ -14,9 +14,43 @@ Selamat datang di repositori pembelajaran C++! Repositori ini berisi kumpulan ma
 - Best practices dan teknik optimasi.
 
 ## 💻 Persyaratan
-C++ compiler (GCC, Clang, atau MSVC)
-Text editor atau IDE (VSCode, CLion, dll)
-Pemahaman dasar tentang pemrograman (opsional)
+- C++ compiler (GCC, Clang, atau MSVC)
+- Text editor atau IDE (VSCode, CLion, dll)
+- Pemahaman dasar tentang pemrograman (opsional)
+
+## 🎯 Cara Menggunakan
+```sh
+git clone https://github.com/username/cpp-learning.git
+```
+
+```sh
+cd cpp-learning
+```
+
+```sh
+g++ example.cpp -o example
+./example
+```
+
+```sh
+├── basics/
+│   ├── variables.cpp
+│   ├── control-flow.cpp
+│   └── functions.cpp
+├── oop/
+│   ├── classes.cpp
+│   ├── inheritance.cpp
+│   └── polymorphism.cpp
+├── stl/
+│   ├── vectors.cpp
+│   ├── maps.cpp
+│   └── algorithms.cpp
+└── projects/
+    ├── calculator/
+    └── game/
+```
+
+
 
 ## 🌟 Fitur Utama
 ✨ Contoh kode yang mudah dipahami
