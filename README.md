@@ -28,11 +28,6 @@ cd FILE-CPP-REZI
 ```
 
 ```sh
-g++ example.cpp -o example
-./example
-```
-
-```sh
 ├── 📂.vscode/
 │   ├── 📄c_cpp_properties.json
 │   ├── 📄settings.json
@@ -66,10 +61,10 @@ Proyek ini dilisensikan di bawah MIT License.
 
 ## 📬 Kontak
 - Username - @reziboss
-- Email - fachrezibachri@example.com
+- Email - fachrezibachri@gmail.com
 - Instagram - @xroxrezi
 
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/4bDyzhvc)
 
 ## 🙏 Pengakuan
 C++ Reference
