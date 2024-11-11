@@ -36,8 +36,6 @@ cd FILE-CPP-REZI
 └── 📄README.md
 ```
 
-
-
 ## 🌟 Fitur Utama
 ✨ Contoh kode yang mudah dipahami
 
@@ -47,18 +45,6 @@ cd FILE-CPP-REZI
 
 💡 Tips dan trik pemrograman C++
 
-## 🤝 Kontribusi
-Kami sangat menghargai kontribusi dari komunitas! Jika Anda ingin berkontribusi:
-
-- Fork repositori ini
-- Buat branch baru `(git checkout -b feature/AmazingFeature)`
-- Commit perubahan Anda  `(git commit -m 'Add some AmazingFeature')`
-- Push ke branch `(git push origin feature/AmazingFeature)`
-- Buat Pull Request
-
-## 📖 Lisensi
-Proyek ini dilisensikan di bawah MIT License.
-
 ## 📬 Kontak
 - Username - @reziboss
 - Email - fachrezibachri@gmail.com
@@ -67,10 +53,9 @@ Proyek ini dilisensikan di bawah MIT License.
 [![Gabung di Discord](https://img.shields.io/badge/Discord-Gabung%20di%20Discord-7289da?style=for-the-badge&logo=discord)](https://discord.gg/4bDyzhvc)
 
 
-
 ## 🙏 Pengakuan
 C++ Reference
 
-Modern C++ Tutorial
+Fachrezi Bachri
 
 ## ⭐️ Jika repositori ini membantu Anda, berikan bintang! ⭐️
