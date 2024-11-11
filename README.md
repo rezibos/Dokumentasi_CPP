@@ -1,7 +1,8 @@
 # 🚀 Belajar C++ dari Dasar hingga Mahir
 Selamat datang di repositori pembelajaran C++! Repositori ini berisi kumpulan materi dan contoh kode untuk membantu Anda menguasai bahasa pemrograman C++ dari tingkat pemula hingga mahir.
 
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)[![C++](https://badgen.net/badge/icon/cplusplus?icon=cplusplus&label)](https://isocpp.org/)
+
 
 ## 📚 Apa yang akan Anda pelajari
 - Dasar-dasar sintaks C++.
