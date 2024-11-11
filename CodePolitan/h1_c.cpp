@@ -1,8 +1,7 @@
 #include <iostream>
+using namespace std;
 
 // contoh variable
-
-using namespace std;
 
  int main(){
     // pakai endl
