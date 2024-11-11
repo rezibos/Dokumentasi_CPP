@@ -33,12 +33,12 @@ g++ example.cpp -o example
 ```
 
 ```sh
-├── .vscode/
-│   ├── c_cpp_properties.json
-│   ├── settings.json
-├── CodePolitan/
-├── w3scool/
-└── README.md
+├── 📂.vscode/
+│   ├── 📄c_cpp_properties.json
+│   ├── 📄settings.json
+├── 📂CodePolitan/
+├── 📂w3scool/
+└── 📄README.md
 ```
 
 
