@@ -33,21 +33,12 @@ g++ example.cpp -o example
 ```
 
 ```sh
-├── basics/
-│   ├── variables.cpp
-│   ├── control-flow.cpp
-│   └── functions.cpp
-├── oop/
-│   ├── classes.cpp
-│   ├── inheritance.cpp
-│   └── polymorphism.cpp
-├── stl/
-│   ├── vectors.cpp
-│   ├── maps.cpp
-│   └── algorithms.cpp
-└── projects/
-    ├── calculator/
-    └── game/
+├── .vscode/
+│   ├── c_cpp_properties.json
+│   ├── settings.json
+├── CodePolitan/
+├── w3scool/
+└── README.md
 ```
 
 
