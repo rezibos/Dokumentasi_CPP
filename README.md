@@ -1,6 +1,8 @@
 # 🚀 Belajar C++ dari Dasar hingga Mahir
 Selamat datang di repositori pembelajaran C++! Repositori ini berisi kumpulan materi dan contoh kode untuk membantu Anda menguasai bahasa pemrograman C++ dari tingkat pemula hingga mahir.
 
+[![Gabung di Discord](https://img.shields.io/badge/Discord-Gabung%20di%20Discord-7289da?style=for-the-badge&logo=discord)](https://discord.gg/4bDyzhvc) <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+
 ## 📚 Apa yang akan Anda pelajari
 - Dasar-dasar sintaks C++.
 - Variabel dan tipe data.
@@ -88,9 +90,6 @@ cd FILE-CPP-REZI
 - Username - @reziboss
 - Email - fachrezibachri@gmail.com
 - Instagram - @xroxrezi
-
-[![Gabung di Discord](https://img.shields.io/badge/Discord-Gabung%20di%20Discord-7289da?style=for-the-badge&logo=discord)](https://discord.gg/4bDyzhvc) <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-
 
 ## 🙏 Pengakuan
 C++ Reference
