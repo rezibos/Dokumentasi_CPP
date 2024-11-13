@@ -1,7 +1,7 @@
 # 🚀 Belajar C++ dari Dasar hingga Mahir
 Selamat datang di repositori pembelajaran C++! Repositori ini berisi kumpulan materi dan contoh kode untuk membantu Anda menguasai bahasa pemrograman C++ dari tingkat pemula hingga mahir.
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=powershell&logoColor=white" alt="Terminal"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge" alt="VS Code"/> <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge" alt="Terminal"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
 
 ## 📚 Apa yang akan Anda pelajari
 - Dasar-dasar sintaks C++.
