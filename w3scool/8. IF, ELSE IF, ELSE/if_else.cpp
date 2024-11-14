@@ -3,7 +3,7 @@ using namespace std;
 
 // IF, ELSE IF, ELSE
 
-// Short Hand If...Else (Ternary Operator) : yang dikenal sebagai operator ternary karena terdiri dari tiga operan
+// Short Hand If...Else (Ternary Operator) : yang dikenal sebagai operator ternary karena terdiri dari tiga operator
 
 // Ini dapat digunakan untuk mengganti beberapa baris kode dengan satu baris
 
