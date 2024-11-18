@@ -6,6 +6,7 @@ using namespace std;
 // The Foreach Loop
 // Contoh
 /*
+    Setiap elemen akan disimpan sementara dalam variabelnama
     for (variabelNama : namaarray) {
         // blok kode yang akan dieksekusi   
     }

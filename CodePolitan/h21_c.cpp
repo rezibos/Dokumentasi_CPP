@@ -3,8 +3,8 @@
 using namespace std;
 
 /*
-   buat program dadu random
-   mengunakan rand()
+    buat program dadu random
+    mengunakan rand()
 */
 
 int main()
