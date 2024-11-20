@@ -3,9 +3,13 @@ using namespace std;
 
 // Rekursif
 // Rekursif = Recursion = pengulangan
-// Rekursif adalah fungsi yang menggulangan dirinya sendiri
+// Rekursif adalah sebuah teknik pemrograman di mana suatu fungsi memanggil dirinya sendiri secara berulang-ulang
+// Kegunaan Rekursif = Menyederhanakan pemecahan masalah yang kompleks menjadi mudah di pahami
 
 // Finit Recursion : rekursif terbatas (akhir dari rekursif)
+
+// Contoh Rekursif
+// return fungsi * nama_fungsi(fungsi - 1);
 
 int pangkatIterasi(int a, int b){
     int hasil = a;
@@ -17,10 +21,12 @@ int pangkatIterasi(int a, int b){
 
 int pangkatRekursif(int a, int b){
     if(b <= 1){ // Contoh Finit Recursion
-        cout << "Akhir Dari Rekursif" << endl;
+        cout << a << "^" ;
+        cout << b << endl;
         return a;
     } else {  // Contoh Rekursif
-        cout << b << "Rekursif" << endl;
+        cout << a << "^" ;
+        cout << b << endl;
         return a * pangkatRekursif(a,(b - 1));
     }
 }

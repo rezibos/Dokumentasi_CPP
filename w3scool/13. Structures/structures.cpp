@@ -15,7 +15,6 @@ using namespace std;
     } nama_variable;           ( Nama Variable Struct )
 */
 
-
 // Contoh Multiple Variables Structures Menggunakan ( , ) Koma
 /*
     struct {                                ( Deklarasi Struct )
@@ -76,7 +75,6 @@ int main()
         cout << myCar1.brand << " " << myCar1.model << " " << myCar1.year << "\n";
         cout << myCar2.brand << " " << myCar2.model << " " << myCar2.year << "\n";
      */
-
 
     // Contoh Penulisan Named Structures
     /*
