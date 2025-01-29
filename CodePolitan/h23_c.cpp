@@ -28,11 +28,10 @@ void tampilkan(int k){
 int main()
 {   
     int input, hasil;
+
     cout << "Masukan Angka : ";
     cin >> input;
 
     hasil = kuardrat(input); // return cara panggil
     tampilkan (hasil); // void cara panggil
-
-    return 0;
 }

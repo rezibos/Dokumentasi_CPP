@@ -46,9 +46,9 @@ struct {
 
 // Named Structures
 struct car {
-  string brand;
-  string model;
-  int year;
+    string brand;
+    string model;
+    int year;
 };
 
 int main()

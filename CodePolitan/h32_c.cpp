@@ -3,7 +3,7 @@ using namespace std;
 
 // Pointer 
 // Kegunaan Pointer : memudahkan memanace memory  atau untuk mengakses alamat yang kita mau pakai
-// Pointer itu adalah alamat yang bisa kita pakai untuk menarok fariabel 
+// Pointer itu adalah alamat yang bisa kita pakai untuk menarok Variabel 
 
 // Kita tidak bisa merubah nilai a dengan memanggil addressnya saja seperti ( &nama_fungsi ) gini aja, kita harus deklarasikan seperti ini int ( *nama_fungsi = &nama_fungsi ) baru kita tinggal panggil nama fungsinya aja
 

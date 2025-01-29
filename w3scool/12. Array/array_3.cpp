@@ -18,7 +18,7 @@ int main()
     int lowestAge = ages[0];
 
     for (int age : ages) {
-        if (lowestAge > age) {
+        if (lowestAge < age) {
             lowestAge = age;
         }
     }

@@ -34,5 +34,16 @@ using namespace std;
 */
 int main()
 {
-    
+    string letters[2][3][2] = {
+        {
+            { "A", "B" },
+            { "C", "D" },
+            { "E", "F"}
+        },
+        {
+            { "E", "F" },
+            { "G", "H" },
+            { "I", "J"}
+        }
+    };
 }

@@ -17,6 +17,6 @@ using namespace std;
 int main()
 {
     int time = 20;
-    string a = (time < 18) ? "Good day." : "Good evening.";
+    string a = (time > 18) ? "Good day." : "Good evening.";
     cout << a;
 }
