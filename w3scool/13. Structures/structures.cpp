@@ -82,7 +82,7 @@ int main()
         myCar1.brand = "BMW";
         myCar1.model = "X5";
         myCar1.year = 1999;
-
+    
         // Create another car structure and store it in myCar2;
         car myCar2;
         myCar2.brand = "Ford";
