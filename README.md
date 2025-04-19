@@ -36,7 +36,7 @@ cd FILE-CPP-REZI
 │   ├── 2. Deklarasi Dan Cin/
 │   ├── 3. Tipe Data Fundamenta/
 │   ├── ...
-│   └── (semua berisi: file.cpp)
+│   └── (semua berisi: file cpp)
 📂w3scool/
 │   ├── 1. Output/
 │   │   ├── cout.cpp
