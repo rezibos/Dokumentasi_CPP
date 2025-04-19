@@ -31,8 +31,8 @@ cd FILE-CPP-REZI
 ├── 📂.vscode/
 │   ├── 📄c_cpp_properties.json
 │   ├── 📄settings.json
-├──📂CodePolitan/
 <details>
+<summary>├──📂CodePolitan/</summary>
 │   │   ├──📂1. Printing pada Console/
 │   │   │   ├──📄h1_c.cpp
 │   │   ├──📂2. Deklarasi Dan Cin/
