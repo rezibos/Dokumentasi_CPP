@@ -1,6 +1,6 @@
 #include <iostream>
 
-// armatika
+// aritmatika
 // oprator aritmatika + , - , * , / , % 
 
 using namespace std;

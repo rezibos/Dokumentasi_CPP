@@ -1,5 +1,8 @@
 {
   "files.associations": {
+    "*.sqlbook": "sql",
+    "*.ndjson": "jsonl",
+    "*.dbclient-js": "javascript",
     "iostream": "cpp",
     "array": "cpp",
     "atomic": "cpp",
@@ -44,6 +47,10 @@
     "stdexcept": "cpp",
     "streambuf": "cpp",
     "typeinfo": "cpp",
-    "h1": "cpp"
+    "h1": "cpp",
+    "fstream": "cpp",
+    "ios": "cpp",
+    "chrono": "cpp",
+    "thread": "cpp"
   }
 }

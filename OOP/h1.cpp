@@ -8,7 +8,6 @@ class Mahasiswa{
         string NIM;
         string jurusan;
         double IPK;
-
 };
 
 int main()
