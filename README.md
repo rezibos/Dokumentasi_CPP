@@ -31,93 +31,21 @@ cd FILE-CPP-REZI
 ├── 📂.vscode/
 │   ├── 📄c_cpp_properties.json
 │   ├── 📄settings.json
-<details>
-<summary>├──📂CodePolitan/</summary>
-│   │   ├──📂1. Printing pada Console/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂2. Deklarasi Dan Cin/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂3. Tipe Data Fundamenta/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂4. Aritmatika/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂5. Komparasi/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂6. Operator Logika, and, or, dan not/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂7. IF Statement/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂8. IF ELSE/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂9. Switch Case/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂10. Latihan membuat calculator/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂11. Operator Assignment/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂12. Increment dan Decrement/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂13. While Loop/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂14. Do While Loop/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂15. For Loop/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂16. Break Dan Continue/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂17. Latihan Deret Fibonacci/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂18. Latihan membuat Segitiga Siku-Siku/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂19. Latihan Membuat Segitiga Sama Kaki/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂20. Fungsi (cmath)/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂21. Latihan Dadu Acak (cmath)/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂22. Fungsi Dengan Kembalian (return)/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂23. Void Fungsi Tanpa Kembalian/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂24. Latihan Fungsi Luas dan Keliling Persegi Panjang/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂25. Prototipe Fungsi/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂26. Scope Variabel (Global, Lokal, dan Block)/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂27. Default argumen pada fungsi/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂28. Overloading sebuah fungsi/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂29. Fungsi Rekursif/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂30. Latihan Rekursif - Faktorial/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂31. Latihan Rekursif - Fibonacci/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂32. Pointer/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂33. Reference/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂34. Fungsi dengan Pointer/
-│   │   │   ├──📄h1_c.cpp
-│   │   ├──📂35. Fungsi dengan Reference/
-│   │   │   ├──📄h1_c.cpp
-</details>
-├── 📂w3scool/
-│   ├──📂1. Output/
-│   │   ├──📄cout.cpp
-│   │   ├──📄output.cpp
-│   ├──📂2. Variables/
-│   │   ├──
-│   ├──📂3. Data Types/
-│   │   ├──
-│   ├──📂4. Operators/
-│   │   ├──
-│   ├──📂5. Strings/
-│   │   ├──
-│   ├──📂6. Math/
-│   │   ├──
+📂CodePolitan/
+│   ├── 1. Printing pada Console/
+│   ├── 2. Deklarasi Dan Cin/
+│   ├── 3. Tipe Data Fundamenta/
+│   ├── ...
+│   └── (semua berisi: file.cpp)
+📂w3scool/
+│   ├── 1. Output/
+│   │   ├── cout.cpp
+│   │   ├── output.cpp
+│   ├── 2. Variables/
+│   ├── 3. Data Types/
+│   ├── 4. Operators/
+│   ├── 5. Strings/
+│   ├── 6. Math/
 └── 📄README.md
 ```
 
