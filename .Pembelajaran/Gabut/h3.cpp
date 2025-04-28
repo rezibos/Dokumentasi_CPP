@@ -2,25 +2,25 @@
 using namespace std;
 
 class Raja{
-protected:
+public:
     int a;
     int b = 2;
 };
 
 class Pangeran : public Raja{
     public:
-    void kuardrat(){
-        a = b * b;
-        cout << "nilai a : " << a << endl;
-    }
+        void kuardrat(){
+            a = b * b;
+            cout << "nilai a : " << a << endl;
+        }
 };
 
-class Warga : protected Pangeran
+class Warga : public Pangeran
 {
     public:
         void kurang(){
             a = b - b;
-
+            cout << "nilai a : " << a << endl;
         }
 };
 
@@ -30,4 +30,6 @@ int main()
     Warga clsWarga;
     
     clsWarga.kurang();
+    clsWarga.kuardrat();
+    clsWarga.Raja::b;
 }

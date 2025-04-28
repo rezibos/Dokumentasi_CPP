@@ -15,9 +15,6 @@ using namespace std;
 // Tidak diharuskan menggunakan huruf besar, tetapi sering dianggap sebagai praktik yang baik.
 // Enum merupakan kependekan dari "enumerations", yang berarti "terdaftar secara khusus".
 
-
-
-
 int main()
 {
     

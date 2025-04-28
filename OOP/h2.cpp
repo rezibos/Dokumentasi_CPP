@@ -14,28 +14,28 @@ class Polos
 // class dengan constructor : akan di panggil pertama kali ketika object di buat
 class Mahasiswa
 {
-    public:
-        string nama;
-        string NIM;
-        string jurusan;
-        double IPK;
+public:
+    string nama;
+    string NIM;
+    string jurusan;
+    double IPK;
 
-        // ini adalah constructor
-        // Mahasiswa(){
-            
-        // }
+    // ini adalah constructor
+    // Mahasiswa(){
+        
+    // }
 
-        Mahasiswa(string InputNama, string InputNim, string InputJurusan, double InputIpk){
-            Mahasiswa::nama = InputNama;
-            Mahasiswa::NIM = InputNim;
-            Mahasiswa::jurusan = InputJurusan;
-            Mahasiswa::IPK = InputIpk;
+    Mahasiswa(string InputNama, string InputNim, string InputJurusan, double InputIpk){
+        Mahasiswa::nama = InputNama;
+        Mahasiswa::NIM = InputNim;
+        Mahasiswa::jurusan = InputJurusan;
+        Mahasiswa::IPK = InputIpk;
 
-            cout << Mahasiswa::nama << endl;
-            cout << Mahasiswa::NIM << endl;
-            cout << Mahasiswa::jurusan << endl;
-            cout << Mahasiswa::IPK << endl;
-        }
+        cout << Mahasiswa::nama << endl;
+        cout << Mahasiswa::NIM << endl;
+        cout << Mahasiswa::jurusan << endl;
+        cout << Mahasiswa::IPK << endl;
+    }
 };
 
 

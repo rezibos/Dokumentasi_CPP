@@ -5,7 +5,7 @@ using namespace std;
 class Mahasiswa{
     public:
         string nama;
-        string NIM;
+        int NIM;
         string jurusan;
         double IPK;
 };
@@ -17,6 +17,7 @@ int main()
     data1.NIM = 28371823;
     Mahasiswa data2;
     data1.nama = "otong";
+    data2.nama = "domi";
 
     cout << "nama dari data1 : " << data1.nama << endl;
     cout << "NIM dari data1 : " << data1.NIM << endl;

@@ -51,6 +51,8 @@
     "fstream": "cpp",
     "ios": "cpp",
     "chrono": "cpp",
-    "thread": "cpp"
+    "thread": "cpp",
+    "cstring": "cpp",
+    "iomanip": "cpp"
   }
 }
